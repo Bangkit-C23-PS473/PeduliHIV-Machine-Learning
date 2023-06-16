@@ -1,4 +1,4 @@
-# Hate Speech Detection Model
+# Hate Speech Filter Detection Model
 This repository contains a machine learning model for hate speech detection. The model is built using dropout, dense, and LSTM layers, which are commonly used in natural language processing tasks.
 
 ## Dataset
