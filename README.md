@@ -9,7 +9,7 @@ The datasets used for training the models are as follows:
 - Indonesian Abusive and Hate Speech Twitter Text: This dataset consists of Indonesian tweets containing abusive and hate speech. It was employed to train the Hate Speech Filter Algorithm model. The model detects hate speech by extracting contextual patterns (https://www.kaggle.com/datasets/ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text ).
 
 ## Model Architecture
-Both models utilize a combination of convolutional, dropout, and LSTM layers to capture relevant patterns and extract meaningful features from the input data.
+Both models utilize a combination of convolutional, dropout, and LSTM layers to capture relevant patterns and extract meaningful features from the input data, all available in the TensorFlow Library and Keras API
 - The Hate Speech Filter Algorithm model employs TensorFlow's computational capabilities to optimize the model using gradient descent and backpropagation. It analyzes the contextual patterns within the text to classify whether it contains hate speech or not.
 - The Doctor Review & Recommendation model leverages the TensorFlow framework to train on the doctor review dataset. By analyzing the patient reviews, it generates accurate recommendations for doctors based on the extracted insights.
 
@@ -17,6 +17,6 @@ Both models utilize a combination of convolutional, dropout, and LSTM layers to 
 We would like to express our gratitude to the authors of the original datasets:
 - Avasarala Sai Pavan for the Doctor Review Dataset.
 - Ilham Fathoni Panigoro for the Indonesian Abusive and Hate Speech Twitter Text dataset.
-We also extend our thanks to the TensorFlow team for providing the powerful framework used for training the models.
+We also extend our thanks to the TensorFlow team for providing the powerful framework and functions used for training the models.
 
 
