@@ -4,6 +4,9 @@ This repository contains a machine learning model for hate speech detection. The
 ## Dataset
 The model is trained on a labeled dataset of text samples, where each sample is classified as either hate speech or non-hate speech. The dataset is not included in this repository, but you can find similar datasets on platforms like Kaggle or by conducting a web search.
 
+## Python Libraries
+This model uses various python libraries such as pandas for data extraction, numpy as for calculations, os for directory settings, sklearn for splitting the data, matplotlib for plotting, seaborn for statistical graphs, and finally TensorFlow, for creating the model architecture, getting the different layers for the machine learning model, training, testing, and also saving the model.
+
 ## Model Architecture
 The hate speech detection model is built using the following layers:
 1. Dropout Layer: Dropout is applied to the input data to reduce overfitting. It randomly sets a fraction of input units to 0 during training.
