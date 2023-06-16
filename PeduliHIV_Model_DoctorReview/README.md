@@ -45,7 +45,7 @@ os.chdir("/content/drive/Shareddrives/CAPSTONE BANGKIT 2023/Machine Learning/Doc
    - After running all the cells in the IPYNB files, you can save the trained model using the following code:
 
    ```python
-   model.save('hate_speech_model.h5')
+   model.save('doctor_review.h5')
    ```
    
 ## Dependencies
