@@ -1,7 +1,7 @@
 # PeduliHIV-Machine-Learning
 
 ## Doctor Review & Hate Speech Filter Models
-This repository contains two models developed using TensorFlow: the Hate Speech Filter Algorithm and the Doctor Review & Recommendation model. These models were trained using publicly available datasets from Kaggle.
+This repository contains two models developed using TensorFlow: the Hate Speech Filter Algorithm and the Doctor Review & Recommendation model. These models were trained using publicly available datasets from Kaggle that were already in Indonesian.
 
 ## Dataset
 The datasets used for training the models are as follows:
