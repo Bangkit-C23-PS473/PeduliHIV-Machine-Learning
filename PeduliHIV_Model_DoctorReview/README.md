@@ -16,7 +16,7 @@ The hate speech detection model is built using the following layers:
 2. Dense Layer: A dense layer with a specified number of units is added after the dropout layer. It helps in learning complex patterns from the input data.
 3. Convolutional Layer: This layer performs convolution operations on input (this being text that has been encoded) data. This layer will extract the features from the encoded data and feed it through the next layers.
 4. GlobalMaxPooling Layer: GlobalMaxPooling is a pooling operation commonly used in convolutional neural networks (CNNs) for down-sampling and dimensionality reduction. It reduces the spatial dimensions of the input data while preserving its features.
-5. Output Layer: The output layer is a dense layer with a sigmoid activation function, which produces a probability score between 0 and 1. It indicates the likelihood of a text sample being classified as a positive or a negative review.
+5. Output Layer: The output layer is a dense layer with a sigmoid activation function, which produces a probability score between 0 and 1. This indicates the likelihood of a text sample being classified as a positive or a negative review.
 
 ## Usage
 To use the hate speech detection model, follow these steps:
