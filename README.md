@@ -1,6 +1,6 @@
 # PeduliHIV-Machine-Learning
 
-## Doctor Review & Hate Speech Filter Models
+## Doctor Sentiment Analysis Review & Hate Speech Filter Models
 This repository contains two models developed using TensorFlow & Python in Jupyter colab Notebooks: the Hate Speech Filter Algorithm and the Doctor Review & Recommendation model. These models were trained using publicly available datasets from Kaggle that were already translated in the Indonesian Language.
 
 ## Dataset
